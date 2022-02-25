@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+.counter{
+    font-size: 14rem;
+}
+
+.btn{
+    border-radius: 60px;
+    background: linear-gradient(to right, rgb(114, 114, 114), rgb(27, 29, 27));
+    border: none;
+    padding: 10px;
+    width: 8%;
+    display: inline-block;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+    margin: 10px;
+}
